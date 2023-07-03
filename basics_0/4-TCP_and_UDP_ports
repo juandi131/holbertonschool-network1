@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# netstat print a list of networks connections, -l show only listening sockets, -p show the PDI and name of the program
+netstat -lp
